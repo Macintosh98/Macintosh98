@@ -1,5 +1,3 @@
-### Hi there, i am Abhishek Zambare
-
 <!--
 **Macintosh98/Macintosh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
